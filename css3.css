@@ -211,14 +211,14 @@ footer{
 
 .redes-sociales,
  .copy{
-    color: #000000;
+    color: #FFFFFF;
     display: flex;
     justify-content: center;
     padding: 1px;
 }
 
 .redes-sociales i{
-    font-size: 28px;
+    font-size: 26px;
     padding: 20px;
 }
 

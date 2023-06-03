@@ -254,7 +254,7 @@ margin-top: 200px;
 
 .redes-sociales,
 .copy{
-color: #000000;
+color: #FFFFFF;
 display: flex;
 justify-content: center;
 }
@@ -264,7 +264,7 @@ justify-content: center;
 }
 
 .redes-sociales i{
-font-size: 28px;
+font-size: 26px;
 padding: 20px;
 }
 

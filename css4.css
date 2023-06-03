@@ -199,7 +199,7 @@ iframe{
         
         .redes-sociales,
         .copy{
-        color: #000000;
+        color: #FFFFFF;
         display: flex;
         justify-content: center;
         }
@@ -210,6 +210,6 @@ iframe{
         
         
         .redes-sociales i{
-        font-size: 24px;
+        font-size: 26px;
         padding: 20px;
         }
